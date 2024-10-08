@@ -1,5 +1,7 @@
 # Post-Generator
-List Sort kode
+## List Sort kode
+Tersedia (✔)\
+Belum Tersedia (❌)
 | Sortcode | Anilist (Anime) | Anilist (Manga) | Jikan (Anime) | Jikan (Manga) | TMDB (Movie) | TMDB (TV) | 
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
 | {{mal_id}} | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
