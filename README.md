@@ -4,7 +4,7 @@ Tersedia (✔)\
 Belum Tersedia (❌)
 | Sortcode | Anilist (Anime) | Anilist (Manga) | Jikan (Anime) | Jikan (Manga) | TMDB (Movie) | TMDB (TV) | 
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
-| {{mal_id}} | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
+| {{mal_id}} | ✔ | ✔ | ✔ | ✔ | ❌ | ❌ |
 | {{image_url}} | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
 | {{small_image_url}} | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
 | {{large_image_url}} | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
