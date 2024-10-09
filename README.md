@@ -1,4 +1,4 @@
-# Post-Generator Sortcode List
+# Post Generator Sortcode List
 
 ## Available (✔) / Not Available (❌)
 
