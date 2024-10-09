@@ -7,8 +7,8 @@ This table contains the list of Sortcodes available for different sources like A
 | Sortcode | Anilist (Anime) | Anilist (Manga) | Jikan (Anime) | Jikan (Manga) | TMDB (Movie) | TMDB (TV) |
 | ------ | :------: | :------: | :------: | :------: | :------: | :------: |
 | `{{aired}}` | ✔ | ✔ | ✔ | ✔ | ❌ | ❌ |
-| `{{broadcast}}` | ✔ | ✔ | ✔ | ✔ | ❌ | ❌ |
-| `{{demographics}}` | ✔ | ✔ | ✔ | ✔ | ❌ | ❌ |
+| `{{broadcast}}` | ❌ | ❌ | ✔ | ✔ | ❌ | ❌ |
+| `{{demographics}}` | ❌ | ❌ | ✔ | ✔ | ❌ | ❌ |
 | `{{duration}}` | ✔ | ✔ | ✔ | ✔ | ❌ | ❌ |
 | `{{episodes}}` | ✔ | ✔ | ✔ | ✔ | ❌ | ❌ |
 | `{{explicit_genres}}` | ✔ | ✔ | ✔ | ✔ | ❌ | ❌ |
