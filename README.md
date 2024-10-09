@@ -11,8 +11,8 @@ This table contains the list of Sortcodes available for different sources like A
 | `{{demographics}}` | ❌ | ❌ | ✔ | ✔ | ❌ | ❌ |
 | `{{duration}}` | ✔ | ✔ | ✔ | ✔ | ❌ | ❌ |
 | `{{episodes}}` | ✔ | ✔ | ✔ | ✔ | ❌ | ❌ |
-| `{{explicit_genres}}` | ✔ | ✔ | ✔ | ✔ | ❌ | ❌ |
-| `{{favorites}}` | ✔ | ✔ | ✔ | ✔ | ❌ | ❌ |
+| `{{explicit_genres}}` | ❌ | ❌ | ✔ | ✔ | ❌ | ❌ |
+| `{{favorites}}` | ❌ | ❌ | ✔ | ✔ | ❌ | ❌ |
 | `{{genres}}` | ✔ | ✔ | ✔ | ✔ | ❌ | ❌ |
 | `{{image_url}}` | ✔ | ✔ | ✔ | ✔ | ❌ | ❌ |
 | `{{large_image_url}}` | ✔ | ✔ | ✔ | ✔ | ❌ | ❌ |
