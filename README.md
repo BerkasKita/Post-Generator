@@ -17,7 +17,7 @@ This table contains the list of Sortcodes available for different sources like A
 | `{{image_url}}` | ✔ | ✔ | ✔ | ✔ | ❌ | ❌ |
 | `{{large_image_url}}` | ✔ | ✔ | ✔ | ✔ | ❌ | ❌ |
 | `{{licensors}}` | ❌ | ❌ | ✔ | ✔ | ❌ | ❌ |
-| `{{mal_id}}` | ❌ | ❌ | ✔ | ✔ | ❌ | ❌ |
+| `{{mal_id}}` | ✔ | ❌ | ✔ | ✔ | ❌ | ❌ |
 | `{{members}}` | ❌ | ❌ | ✔ | ✔ | ❌ | ❌ |
 | `{{popularity}}` | ✔ | ✔ | ✔ | ✔ | ❌ | ❌ |
 | `{{producers}}` | ✔ | ✔ | ✔ | ✔ | ❌ | ❌ |
