@@ -11,14 +11,14 @@ This document provides a list of supported sort codes for various metadata field
 | Sortcode                     | Anilist (Anime) | Anilist (Manga) | Jikan (Anime) | Jikan (Manga) | TMDB (Movie) | TMDB (TV) |
 |------------------------------|:---------------:|:---------------:|:-------------:|:-------------:|:------------:|:---------:|
 | `{{aired}}`                  | ✔               | ✔               | ✔             | ✔             | ❌           | ❌        |
-| `{{authors}}`                | ✔               | ✔               | ❌             | ✔             | ❌           | ❌        |
+| `{{authors}}`                | ❌               | ✔               | ❌             | ✔             | ❌           | ❌        |
 | `{{bannerImage}}`            | ✔               | ✔               | ❌             | ❌             | ❌           | ❌        |
 | `{{broadcast}}`              | ❌               | ❌               | ✔             | ❌             | ❌           | ❌        |
-| `{{chapters}}`               | ✔               | ✔               | ❌             | ✔             | ❌           | ❌        |
+| `{{chapters}}`               | ❌               | ✔               | ❌             | ✔             | ❌           | ❌        |
 | `{{demographics}}`           | ❌               | ❌               | ✔             | ✔             | ❌           | ❌        |
-| `{{duration}}`               | ✔               | ✔               | ✔             | ❌             | ❌           | ❌        |
-| `{{episodes}}`               | ✔               | ✔               | ✔             | ❌             | ❌           | ❌        |
-| `{{explicit_genres}}`        | ❌               | ❌               | ✔             | ❌             | ❌           | ❌        |
+| `{{duration}}`               | ✔               | ❌               | ✔             | ❌             | ❌           | ❌        |
+| `{{episodes}}`               | ✔               | ❌               | ✔             | ❌             | ❌           | ❌        |
+| `{{explicit_genres}}`        | ❌               | ❌               | ❌             | ❌             | ❌           | ❌        |
 | `{{favorites}}`              | ❌               | ❌               | ✔             | ✔             | ❌           | ❌        |
 | `{{genres}}`                 | ✔               | ✔               | ✔             | ✔             | ❌           | ❌        |
 | `{{image_url}}`              | ✔               | ✔               | ✔             | ✔             | ❌           | ❌        |
@@ -26,20 +26,20 @@ This document provides a list of supported sort codes for various metadata field
 | `{{licensors}}`              | ❌               | ❌               | ✔             | ❌             | ❌           | ❌        |
 | `{{mal_id}}`                 | ✔               | ❌               | ✔             | ✔             | ❌           | ❌        |
 | `{{members}}`                | ❌               | ❌               | ✔             | ✔             | ❌           | ❌        |
-| `{{musim}}`                  | ✔               | ✔               | ✔             | ❌             | ❌           | ❌        |
+| `{{musim}}`                  | ✔               | ❌               | ✔             | ❌             | ❌           | ❌        |
 | `{{popularity}}`             | ✔               | ✔               | ✔             | ❌             | ❌           | ❌        |
-| `{{producers}}`              | ✔               | ✔               | ✔             | ❌             | ❌           | ❌        |
-| `{{rank}}`                   | ✔               | ✔               | ✔             | ✔             | ❌           | ❌        |
-| `{{rating}}`                 | ✔               | ✔               | ✔             | ❌             | ❌           | ❌        |
+| `{{producers}}`              | ❌               | ❌               | ✔             | ❌             | ❌           | ❌        |
+| `{{rank}}`                   | ❌               | ❌               | ✔             | ✔             | ❌           | ❌        |
+| `{{rating}}`                 | ❌               | ❌               | ✔             | ❌             | ❌           | ❌        |
 | `{{score}}`                  | ✔               | ✔               | ✔             | ✔             | ❌           | ❌        |
-| `{{scored_by}}`              | ✔               | ✔               | ✔             | ✔             | ❌           | ❌        |
-| `{{season}}`                 | ✔               | ✔               | ✔             | ❌             | ❌           | ❌        |
+| `{{scored_by}}`              | ❌               | ❌               | ✔             | ✔             | ❌           | ❌        |
+| `{{season}}`                 | ✔               | ❌               | ✔             | ❌             | ❌           | ❌        |
 | `{{small_image_url}}`        | ✔               | ✔               | ✔             | ✔             | ❌           | ❌        |
 | `{{source}}`                 | ✔               | ✔               | ✔             | ❌             | ❌           | ❌        |
 | `{{status}}`                 | ✔               | ✔               | ✔             | ✔             | ❌           | ❌        |
-| `{{studios}}`                | ✔               | ✔               | ✔             | ❌             | ❌           | ❌        |
+| `{{studios}}`                | ✔               | ❌               | ✔             | ❌             | ❌           | ❌        |
 | `{{synopsis}}`               | ✔               | ✔               | ✔             | ✔             | ❌           | ❌        |
-| `{{themes}}`                 | ✔               | ✔               | ✔             | ✔             | ❌           | ❌        |
+| `{{themes}}`                 | ❌               | ❌               | ✔             | ✔             | ❌           | ❌        |
 | `{{title}}`                  | ✔               | ✔               | ✔             | ✔             | ❌           | ❌        |
 | `{{title_english}}`          | ✔               | ✔               | ✔             | ✔             | ❌           | ❌        |
 | `{{title_japanese}}`         | ✔               | ✔               | ✔             | ✔             | ❌           | ❌        |
@@ -52,8 +52,8 @@ This document provides a list of supported sort codes for various metadata field
 | `{{trailer_url}}`            | ✔               | ✔               | ✔             | ❌             | ❌           | ❌        |
 | `{{type}}`                   | ✔               | ✔               | ✔             | ✔             | ❌           | ❌        |
 | `{{url_MAL}}`                | ✔               | ✔               | ✔             | ✔             | ❌           | ❌        |
-| `{{volumes}}`                | ✔               | ✔               | ❌             | ✔             | ❌           | ❌        |
-| `{{year}}`                   | ✔               | ✔               | ✔             | ✔             | ❌           | ❌        |
+| `{{volumes}}`                | ❌               | ✔               | ❌             | ✔             | ❌           | ❌        |
+| `{{year}}`                   | ✔               | ❌               | ✔             | ✔             | ❌           | ❌        |
 | `{{youtube_id}}`             | ✔               | ✔               | ✔             | ❌             | ❌           | ❌        |
 
 
