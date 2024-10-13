@@ -22,6 +22,7 @@ This document provides a list of supported sort codes for various metadata field
 | `{{favorites}}`              | ❌               | ❌               | ✔             | ✔             | ❌           | ❌        |
 | `{{genres}}`                 | ✔               | ✔               | ✔             | ✔             | ✔           | ✔        |
 | `{{image_url}}`              | ✔               | ✔               | ✔             | ✔             | ✔           | ✔        |
+| `{{language}}`               | ❌               | ❌               | ❌             | ❌             | ✔           | ✔        |
 | `{{large_image_url}}`        | ✔               | ✔               | ✔             | ✔             | ❌           | ❌        |
 | `{{licensors}}`              | ❌               | ❌               | ✔             | ❌             | ❌           | ❌        |
 | `{{mal_id}}`                 | ✔               | ❌               | ✔             | ✔             | ❌           | ❌        |
@@ -43,6 +44,7 @@ This document provides a list of supported sort codes for various metadata field
 | `{{title}}`                  | ✔               | ✔               | ✔             | ✔             | ✔           | ✔        |
 | `{{title_english}}`          | ✔               | ✔               | ✔             | ✔             | ❌           | ❌        |
 | `{{title_japanese}}`         | ✔               | ✔               | ✔             | ✔             | ❌           | ❌        |
+| `{{tmdb_id}}`                | ❌               | ❌               | ❌             | ❌             | ❌           | ❌        |
 | `{{trailer_embed}}`          | ✔               | ✔               | ✔             | ❌             | ❌           | ❌        |
 | `{{trailer_image_url}}`      | ✔               | ✔               | ✔             | ❌             | ❌           | ❌        |
 | `{{trailer_large_image_url}}`| ✔               | ✔               | ✔             | ❌             | ❌           | ❌        |
