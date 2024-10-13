@@ -10,18 +10,18 @@ This document provides a list of supported sort codes for various metadata field
 
 | Sortcode                     | Anilist (Anime) | Anilist (Manga) | Jikan (Anime) | Jikan (Manga) | TMDB (Movie) | TMDB (TV) |
 |------------------------------|:---------------:|:---------------:|:-------------:|:-------------:|:------------:|:---------:|
-| `{{aired}}`                  | ✔               | ✔               | ✔             | ✔             | ❌           | ❌        |
+| `{{aired}}`                  | ✔               | ✔               | ✔             | ✔             | ✔           | ✔        |
 | `{{authors}}`                | ❌               | ✔               | ❌             | ✔             | ❌           | ❌        |
-| `{{bannerImage}}`            | ✔               | ✔               | ❌             | ❌             | ❌           | ❌        |
+| `{{bannerImage}}`            | ✔               | ✔               | ❌             | ❌             | ✔           | ✔        |
 | `{{broadcast}}`              | ❌               | ❌               | ✔             | ❌             | ❌           | ❌        |
 | `{{chapters}}`               | ❌               | ✔               | ❌             | ✔             | ❌           | ❌        |
 | `{{demographics}}`           | ❌               | ❌               | ✔             | ✔             | ❌           | ❌        |
-| `{{duration}}`               | ✔               | ❌               | ✔             | ❌             | ❌           | ❌        |
-| `{{episodes}}`               | ✔               | ❌               | ✔             | ❌             | ❌           | ❌        |
+| `{{duration}}`               | ✔               | ❌               | ✔             | ❌             | ✔           | ✔        |
+| `{{episodes}}`               | ✔               | ❌               | ✔             | ❌             | ❌           | ✔        |
 | `{{explicit_genres}}`        | ❌               | ❌               | ❌             | ❌             | ❌           | ❌        |
 | `{{favorites}}`              | ❌               | ❌               | ✔             | ✔             | ❌           | ❌        |
-| `{{genres}}`                 | ✔               | ✔               | ✔             | ✔             | ❌           | ❌        |
-| `{{image_url}}`              | ✔               | ✔               | ✔             | ✔             | ❌           | ❌        |
+| `{{genres}}`                 | ✔               | ✔               | ✔             | ✔             | ✔           | ✔        |
+| `{{image_url}}`              | ✔               | ✔               | ✔             | ✔             | ✔           | ✔        |
 | `{{large_image_url}}`        | ✔               | ✔               | ✔             | ✔             | ❌           | ❌        |
 | `{{licensors}}`              | ❌               | ❌               | ✔             | ❌             | ❌           | ❌        |
 | `{{mal_id}}`                 | ✔               | ❌               | ✔             | ✔             | ❌           | ❌        |
@@ -31,16 +31,16 @@ This document provides a list of supported sort codes for various metadata field
 | `{{producers}}`              | ❌               | ❌               | ✔             | ❌             | ❌           | ❌        |
 | `{{rank}}`                   | ❌               | ❌               | ✔             | ✔             | ❌           | ❌        |
 | `{{rating}}`                 | ❌               | ❌               | ✔             | ❌             | ❌           | ❌        |
-| `{{score}}`                  | ✔               | ✔               | ✔             | ✔             | ❌           | ❌        |
+| `{{score}}`                  | ✔               | ✔               | ✔             | ✔             | ✔           | ✔        |
 | `{{scored_by}}`              | ❌               | ❌               | ✔             | ✔             | ❌           | ❌        |
-| `{{season}}`                 | ✔               | ❌               | ✔             | ❌             | ❌           | ❌        |
+| `{{season}}`                 | ✔               | ❌               | ✔             | ❌             | ❌           | ✔        |
 | `{{small_image_url}}`        | ✔               | ✔               | ✔             | ✔             | ❌           | ❌        |
 | `{{source}}`                 | ✔               | ✔               | ✔             | ❌             | ❌           | ❌        |
 | `{{status}}`                 | ✔               | ✔               | ✔             | ✔             | ❌           | ❌        |
 | `{{studios}}`                | ✔               | ❌               | ✔             | ❌             | ❌           | ❌        |
-| `{{synopsis}}`               | ✔               | ✔               | ✔             | ✔             | ❌           | ❌        |
+| `{{synopsis}}`               | ✔               | ✔               | ✔             | ✔             | ✔           | ✔        |
 | `{{themes}}`                 | ❌               | ❌               | ✔             | ✔             | ❌           | ❌        |
-| `{{title}}`                  | ✔               | ✔               | ✔             | ✔             | ❌           | ❌        |
+| `{{title}}`                  | ✔               | ✔               | ✔             | ✔             | ✔           | ✔        |
 | `{{title_english}}`          | ✔               | ✔               | ✔             | ✔             | ❌           | ❌        |
 | `{{title_japanese}}`         | ✔               | ✔               | ✔             | ✔             | ❌           | ❌        |
 | `{{trailer_embed}}`          | ✔               | ✔               | ✔             | ❌             | ❌           | ❌        |
